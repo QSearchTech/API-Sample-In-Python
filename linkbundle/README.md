@@ -12,8 +12,11 @@
    1. Install `pip`_ and `virtualenv`_ if you do not already have them.
 
    2. Create a virtualenv. Samples are compatible with Python 2.7.
+        
+        ```bash
         $ virtualenv env
         $ source env/bin/activate
+        ```
 
 #### Install the dependencies needed to run the samples.
         $ pip install -r requirements.txt
