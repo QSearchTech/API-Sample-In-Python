@@ -4,10 +4,10 @@
 
 ## Prerequisites
 
-###Authentication
-1. Create project on the [Qsearch API Service](https://api.qsearch.cc)
+### Authentication
+   Create project on the [Qsearch API Service](https://api.qsearch.cc)
 
-###Install Dependencies
+### Install Dependencies
 
 #### Install `pip`_ and `virtualenv`_ if you do not already have them.
 
