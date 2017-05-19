@@ -1,6 +1,6 @@
 # Qsearch Linkbundle API
 # Introduction
-
+提供快速建立縮網址服務
 
 ## Prerequisites
 
