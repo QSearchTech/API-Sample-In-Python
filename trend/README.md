@@ -7,4 +7,4 @@
 1. Create project on the [Qsearch API Service](https://api.qsearch.cc)
 
 ## Running the samples
-    `$ python trend.py -k your-api-key`
+    $ python trend.py -k your-api-key
