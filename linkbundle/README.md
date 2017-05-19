@@ -9,9 +9,9 @@
 
 ### Install Dependencies
 
-#### Install `pip`_ and `virtualenv`_ if you do not already have them.
+   1. Install `pip`_ and `virtualenv`_ if you do not already have them.
 
-#### Create a virtualenv. Samples are compatible with Python 2.7.
+   2. Create a virtualenv. Samples are compatible with Python 2.7.
         $ virtualenv env
         $ source env/bin/activate
 
@@ -19,4 +19,4 @@
         $ pip install -r requirements.txt
 
 ## Running the samples
-    $ python linkbundle.py -k your-api-key
+        $ python linkbundle.py -k your-api-key
